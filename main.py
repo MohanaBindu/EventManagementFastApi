@@ -8,4 +8,4 @@ app.include_router(events.router)
 
 
 
-models.Base.metadata.create_all(engine)
+# models.Base.metadata.create_all(engine)
